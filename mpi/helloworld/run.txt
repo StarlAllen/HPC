@@ -1,0 +1,1 @@
+mpiexec -n 8 -f /home/zhangsan/hello/config /home/zhangsan/hello/mpi_hello_world

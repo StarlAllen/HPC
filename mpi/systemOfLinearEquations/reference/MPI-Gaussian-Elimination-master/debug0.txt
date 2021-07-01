@@ -1,0 +1,38 @@
+1.000000 0.000000 0.000000 0.000000 2.000000
+Computing pivot: curr = 0
+val = 1.000000, pivot = 0
+val = 0.000000, pivot = 0
+val = 0.000000, pivot = 0
+val = 0.000000, pivot = 0
+
+Pivots
+0 0
+
+After Division Row no. : 0
+1.000000 0.000000 0.000000 0.000000 0.000000 0.000000 prev_lst = 4, lst = 0
+1. x_val = 0.000000, cnt = 0, lst = 0, prev_lst = 4
+2. x_val = 0.000000, cnt = 0, i = 3, lst = 0, prev_lst = 4
+3. x_val = 7.000000, cnt = 0, i = 3, lst = 0, prev_lst = 4
+Proc_vals: 2.000000 0.000000 1.000000 0.000000 
+
+2. x_val = 7.000000, cnt = 0, i = 2, lst = 0, prev_lst = 4
+3. x_val = 1.000000, cnt = 0, i = 2, lst = 0, prev_lst = 4
+Proc_vals: 2.000000 0.000000 1.000000 0.000000 
+
+2. x_val = 1.000000, cnt = 0, i = 1, lst = 0, prev_lst = 4
+3. x_val = 3.000000, cnt = 0, i = 1, lst = 0, prev_lst = 4
+Proc_vals: 2.000000 0.000000 1.000000 0.000000 
+
+
+Printing PROC VALS
+2.000000 
+
+Final
+1.000000 0.000000 0.000000 0.000000 2.000000
+
+
+Variables Permutation:
+0 1 2 3 
+
+Printing PROC VALS
+2.000000 
